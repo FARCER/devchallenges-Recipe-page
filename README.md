@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-interior-consultant.vercel.app/">
+    <a href="https://devchallenges-recipe-page.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/FARCER/devchallenges-Interior-Consultant">
+    <a href="https://github.com/FARCER/devchallenges-Recipe-page">
       Solution
     </a>
     <span> | </span>
